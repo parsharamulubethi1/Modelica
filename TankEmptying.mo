@@ -4,7 +4,7 @@ replaceable package Medium = Modelica.Media.Water.StandardWaterOnePhase
   Modelica.Fluid.Vessels.OpenTank tank(
     height=0.1,
     crossArea=0.5,
-    level_start=0.01,
+    level_start=0.03,
     redeclare package Medium = Medium,
     portsData={Modelica.Fluid.Vessels.BaseClasses.VesselPortsData(diameter=0.1)},
     nPorts=1) annotation (Placement(transformation(extent={{-20,20},{20,60}})));
