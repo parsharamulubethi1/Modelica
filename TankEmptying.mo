@@ -28,6 +28,6 @@ equation
           -14},{-68,-12},{-52,-12}}, color={0,127,255}));
   connect(pipe.port_b, tank.ports[1]) annotation (Line(points={{-32,-12},{-16,-12},
           {-16,20},{0,20}}, color={0,127,255}));
-  annotation (uses(Modelica(version="3.2.3")), experiment(StopTime=10,
+  annotation (uses(Modelica(version="4.0.0")), experiment(StopTime=10,
         __Dymola_Algorithm="Dassl"));
 end TankEmptying;
