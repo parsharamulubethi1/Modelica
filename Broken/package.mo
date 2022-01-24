@@ -1,4 +1,4 @@
-package BrokenM
+package BrokenO
     extends Modelica.Icons.Package;
     annotation(uses(Modelica(version = "4.0.0")));
-end BrokenM;
+end BrokenO;
