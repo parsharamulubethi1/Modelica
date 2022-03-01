@@ -1,4 +1,4 @@
-package BrokenTree_1
+package BrokenGlass
     extends Modelica.Icons.Package;
     annotation(uses(Modelica(version = "4.0.0")));
-end BrokenTree_1
+end BrokenGlass
