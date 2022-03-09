@@ -1,4 +1,4 @@
 within SVN_Structured;
-package PackA
+package PackC
     extends Modelica.Icons.Package;
-end PackA;
+end PackC;
