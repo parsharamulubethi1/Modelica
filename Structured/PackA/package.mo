@@ -1,4 +1,4 @@
 within Structured;
-package PackA
+package PackA_RENAMED
     extends Modelica.Icons.Package;
-end PackA;
+end PackA_RENAMED;
