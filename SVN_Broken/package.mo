@@ -1,4 +1,4 @@
-package SVN_Broken_Renamed_1
+package SVN_Broken_Renamed_renamed
     extends Modelica.Icons.Package;
     annotation(uses(Modelica(version = "3.2.3")));
-end SVN_Broken_Renamed_1;
+end SVN_Broken_Renamed_renamed;
