@@ -1,72 +1,7 @@
 {
   "name": "github-com-hariramshanmuganathan-modelica",
   "content": [
-    {
-      "id": "53fe35e69ff54854873cc69fe5c3b0ab",
-      "relpath": "SVN_Versioned_Unstructured 1.mo",
-      "contentType": "MODELICA",
-      "name": "SVN_Versioned_Unstructured 1.mo"
-    },
-    {
-      "id": "147dea23098247eeb7c6d76dac4a3ad0",
-      "relpath": "SVN_Unstructured.mo",
-      "contentType": "MODELICA",
-      "name": "SVN_Unstructured.mo"
-    },
-    {
-      "id": "e332708dd8294e599f3de8f8cdb95890",
-      "relpath": "Unstructured.mo",
-      "contentType": "MODELICA",
-      "name": "Unstructured.mo"
-    },
-    {
-      "id": "3912e2fa76254d73b349cdf9b57a34a9",
-      "relpath": "TankEmptying.mo",
-      "contentType": "MODELICA",
-      "name": "TankEmptying.mo"
-    },
-    {
-      "id": "5266a5569e0b4c289b8883ca2ca0c5d7",
-      "relpath": "Versioned_Unstructured 1.mo",
-      "contentType": "MODELICA",
-      "name": "Versioned_Unstructured 1.mo"
-    },
-    {
-      "id": "22df0b4a21fb497f9d4ae0326c490be0",
-      "relpath": "Structured",
-      "contentType": "MODELICA",
-      "name": "Structured"
-    },
-    {
-      "id": "9dfac51615764cfaa6640b7c7b444060",
-      "relpath": "SVN_Structured",
-      "contentType": "MODELICA",
-      "name": "SVN_Structured"
-    },
-    {
-      "id": "6dd81647cd5a4e8596cbbd2cf1108d89",
-      "relpath": "Broken",
-      "contentType": "MODELICA",
-      "name": "Broken"
-    },
-    {
-      "id": "778d428e59004195b28b70bb4c40da1d",
-      "relpath": "SVN_Broken",
-      "contentType": "MODELICA",
-      "name": "SVN_Broken"
-    },
-    {
-      "id": "cd02824e4e624b45a8a9052b67763d58",
-      "relpath": "Versioned_Structured 1",
-      "contentType": "MODELICA",
-      "name": "Versioned_Structured"
-    },
-    {
-      "id": "79602584463e41468cd6d4f60ecd878d",
-      "relpath": "SVN_Versioned_Structured 1",
-      "contentType": "MODELICA",
-      "name": "SVN_Versioned_Structured"
-    },
+    
     {
       "id": "8a1eaf5d8e7349d2a7d1329394a7abfa",
       "relpath": "Resources/Views",
