@@ -1,5 +1,11 @@
 {
   "name": "github-com-hariramshanmuganathan-modelica-temp-aug18",
+  "dependencies": [
+    {
+      "name": "MSL",
+      "versionSpecifier": "4.0.0"
+    }
+  ],
   "content": [
     {
       "id": "bfe543f30ba74d139c025721a76c3667",
