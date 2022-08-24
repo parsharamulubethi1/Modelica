@@ -4,6 +4,10 @@
     {
       "name": "MSL",
       "versionSpecifier": "4.0.0"
+    },
+    {
+      "name": "AirConditioning",
+      "versionSpecifier": "1.24.0"
     }
   ],
   "content": [
