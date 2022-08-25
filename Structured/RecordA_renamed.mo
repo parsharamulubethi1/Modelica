@@ -1,4 +1,4 @@
 within Structured;
-record RecordA
+record RecordA_renamed
     extends Modelica.Icons.Record;
-end RecordA;
+end RecordA_renamed;
