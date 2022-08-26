@@ -1,4 +1,4 @@
-package Versioned_Unstructured "Attachment for symbolic linked test cases"
+package Versioned_Unstructured_1 "Attachment for symbolic linked test cases"
     extends Modelica.Icons.Package;
     
     package PackA
@@ -23,4 +23,4 @@ package Versioned_Unstructured "Attachment for symbolic linked test cases"
     end ConnectorA;
 
     annotation(version="1",uses(Modelica(version = "4.0.0")));
-end Versioned_Unstructured;
+end Versioned_Unstructured_1;
