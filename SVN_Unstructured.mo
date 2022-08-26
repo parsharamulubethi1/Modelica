@@ -1,4 +1,4 @@
-package SVN_Unstructured
+package SVN_Unstructured_renamed
     extends Modelica.Icons.Package;
     
      package PackA
@@ -23,4 +23,4 @@ package SVN_Unstructured
     end ConnectorA;
 
     annotation(uses(Modelica(version = "4.0.0")));
-end SVN_Unstructured;
+end SVN_Unstructured_renamed;
