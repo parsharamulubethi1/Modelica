@@ -1,31 +1,183 @@
 {
-  "name": "github-com-hariramshanmuganathan-modelica",
+  "name": "Modelica_1",
+  "dependencies": [
+    {
+      "name": "Modelica",
+      "versionSpecifier": "4.0.0"
+    },
+    {
+      "name": "AircraftDynamics",
+      "versionSpecifier": "1.7.0"
+    },
+    {
+      "name": "AirConditioning",
+      "versionSpecifier": "1.24.0"
+    },
+    {
+      "name": "Electrification",
+      "versionSpecifier": "1.8.0"
+    },
+    {
+      "name": "EngineDynamics",
+      "versionSpecifier": "2.9.0"
+    },
+    {
+      "name": "EnvironmentalControl",
+      "versionSpecifier": "3.13.0"
+    },
+    {
+      "name": "FuelCell",
+      "versionSpecifier": "1.15.0"
+    },
+    {
+      "name": "FuelSystem",
+      "versionSpecifier": "5.2.0"
+    },
+    {
+      "name": "HeatExchanger",
+      "versionSpecifier": "2.9.0"
+    },
+    {
+      "name": "Hydraulics",
+      "versionSpecifier": "4.17.0"
+    },
+    {
+      "name": "HydroPower",
+      "versionSpecifier": "2.15.0"
+    },
+    {
+      "name": "IndustryExamples",
+      "versionSpecifier": "1.1.0"
+    },
+    {
+      "name": "JetPropulsion",
+      "versionSpecifier": "2.4.0"
+    },
+    {
+      "name": "LiquidCooling",
+      "versionSpecifier": "2.9.0"
+    },
+    {
+      "name": "Modelon",
+      "versionSpecifier": "4.1.0"
+    },
+    {
+      "name": "Pneumatics",
+      "versionSpecifier": "2.13.0"
+    },
+    {
+      "name": "ThermalPower",
+      "versionSpecifier": "1.24.0"
+    },
+    {
+      "name": "ThermoFluidPro",
+      "versionSpecifier": "1.24.0"
+    },
+    {
+      "name": "VaporCycle",
+      "versionSpecifier": "2.9.0"
+    },
+    {
+      "name": "VehicleDynamics",
+      "versionSpecifier": "4.1.0"
+    }
+  ],
   "content": [
-    
     {
-      "id": "8a1eaf5d8e7349d2a7d1329394a7abfa",
+      "relpath": "Versioned_Unstructured 1.mo",
+      "contentType": "MODELICA",
+      "name": "Versioned_Unstructured 1.mo",
+      "id": "146fca50e80e42cc9271a59c0bea7a9d"
+    },
+    {
+      "relpath": "Unstructured.mo",
+      "contentType": "MODELICA",
+      "name": "Unstructured.mo",
+      "id": "3e1d9f0daa8748e6bc49ccd48158ac79"
+    },
+    {
+      "relpath": "SVN_Unstructured.mo",
+      "contentType": "MODELICA",
+      "name": "SVN_Unstructured.mo",
+      "id": "acb2c1fdfdbb40d589af2778e5e90a14"
+    },
+    {
+      "relpath": "SVN_Versioned_Unstructured 1.mo",
+      "contentType": "MODELICA",
+      "name": "SVN_Versioned_Unstructured 1.mo",
+      "id": "91883b467413495b97c1bb799a81c1e2"
+    },
+    {
+      "relpath": "TankEmptying.mo",
+      "contentType": "MODELICA",
+      "name": "TankEmptying.mo",
+      "id": "3f5a2831d14142bdb7eb260ee1d69450"
+    },
+    {
+      "relpath": "SVN_Versioned_Structured 1",
+      "contentType": "MODELICA",
+      "name": "SVN_Versioned_Structured",
+      "id": "6c8d0ef3b8d143a2832e8a4f86805f51"
+    },
+    {
+      "relpath": "Structured",
+      "contentType": "MODELICA",
+      "name": "Structured",
+      "id": "c4cebdbb32c34fdfac327284d3cf5aaa"
+    },
+    {
+      "relpath": "SVN_Broken",
+      "contentType": "MODELICA",
+      "name": "SVN_Broken",
+      "id": "4ef9c8d5498349c8821d134ea28617d2"
+    },
+    {
+      "relpath": "SVN_Structured",
+      "contentType": "MODELICA",
+      "name": "SVN_Structured",
+      "id": "e9c4b8d5640d4943a8340a5925039bd5"
+    },
+    {
+      "relpath": "Versioned_Structured 1",
+      "contentType": "MODELICA",
+      "name": "Versioned_Structured",
+      "id": "820dfba3ff5a4cebb7af28c97a1f13dd"
+    },
+    {
+      "relpath": "Broken",
+      "contentType": "MODELICA",
+      "name": "Broken",
+      "id": "b9e0b4aa28e04f2e9995567819e4dd9e"
+    },
+    {
       "relpath": "Resources/Views",
-      "contentType": "VIEWS"
+      "contentType": "VIEWS",
+      "id": "134e302c2fe84efdada7f2fc9582d2ca"
     },
     {
-      "id": "04da04b2be6248ab8da97184fcf68c0b",
-      "relpath": "Resources/Favourites",
-      "contentType": "FAVOURITES"
+      "relpath": "Resources/Favorites",
+      "contentType": "FAVORITES",
+      "id": "65329d9f974f4544b730051f9eaf3ea6"
     },
     {
-      "id": "b5f23883e7474f74b03720535c8206e7",
       "relpath": "Resources/CustomFunctions",
-      "contentType": "CUSTOM_FUNCTIONS"
+      "contentType": "CUSTOM_FUNCTIONS",
+      "id": "918d57df37a74fbaa86ae27fd4f028df"
     },
     {
-      "id": "e4bab4dca2d54e2395b099ac0983a277",
       "relpath": "Resources/Custom",
-      "contentType": "GENERIC"
+      "contentType": "GENERIC",
+      "id": "153987e8d0fc41b48388194b4971be26"
     },
     {
-      "id": "76f69b4a7a544ffdbefed7f715adceba",
       "relpath": "ReferenceResults",
-      "contentType": "REFERENCE_RESULTS"
+      "contentType": "REFERENCE_RESULTS",
+      "id": "3a587bf7479e422c887852190e669c9a"
+    },
+    {
+      "relpath": "Resources/ExperimentDefinitions",
+      "contentType": "EXPERIMENT_DEFINITIONS",
+      "id": "34766a2708414fdf91d36d717351b2c2"
     }
   ]
 }
