@@ -1,0 +1,121 @@
+{
+  "name": "Modelica",
+  "format": "1.0.0",
+  "dependencies": [],
+  "content": [
+    {
+      "relpath": "Versioned_Unstructured 1.mo",
+      "contentType": "MODELICA",
+      "name": "Versioned_Unstructured 1.mo",
+      "defaultDisabled": false,
+      "id": "99b2b66044454653a38a0f4a5327c984"
+    },
+    {
+      "relpath": "Unstructured.mo",
+      "contentType": "MODELICA",
+      "name": "Unstructured.mo",
+      "defaultDisabled": false,
+      "id": "2c15b4efa00e42f9900a40391dcb8e18"
+    },
+    {
+      "relpath": "SVN_Unstructured.mo",
+      "contentType": "MODELICA",
+      "name": "SVN_Unstructured.mo",
+      "defaultDisabled": false,
+      "id": "5f8bd9f94f934f818deb0d9e7b3bba24"
+    },
+    {
+      "relpath": "SVN_Versioned_Unstructured 1.mo",
+      "contentType": "MODELICA",
+      "name": "SVN_Versioned_Unstructured 1.mo",
+      "defaultDisabled": false,
+      "id": "b7ac2c9b694649d580bacd9aa0c1aa1a"
+    },
+    {
+      "relpath": "TankEmptying.mo",
+      "contentType": "MODELICA",
+      "name": "TankEmptying.mo",
+      "defaultDisabled": false,
+      "id": "2c5c15b20a1c462bb356f2b717086afa"
+    },
+    {
+      "relpath": "SVN_Versioned_Structured 1",
+      "contentType": "MODELICA",
+      "name": "SVN_Versioned_Structured",
+      "defaultDisabled": false,
+      "id": "3c2cd24d3d794b1a990f04e048af1a0b"
+    },
+    {
+      "relpath": "Structured",
+      "contentType": "MODELICA",
+      "name": "Structured",
+      "defaultDisabled": false,
+      "id": "1c1a0c302dc747139ea891ef2e1802c6"
+    },
+    {
+      "relpath": "SVN_Broken",
+      "contentType": "MODELICA",
+      "name": "SVN_Broken",
+      "defaultDisabled": false,
+      "id": "f6f112d0c38043eca9295431c2e27574"
+    },
+    {
+      "relpath": "SVN_Structured",
+      "contentType": "MODELICA",
+      "name": "SVN_Structured",
+      "defaultDisabled": false,
+      "id": "60dbb4ff60c247fe8691018056a4b68e"
+    },
+    {
+      "relpath": "Versioned_Structured 1",
+      "contentType": "MODELICA",
+      "name": "Versioned_Structured",
+      "defaultDisabled": false,
+      "id": "bac2e6a547e14d92a06c1ae62c0c12b9"
+    },
+    {
+      "relpath": "Broken",
+      "contentType": "MODELICA",
+      "name": "Broken",
+      "defaultDisabled": false,
+      "id": "19063232c4a245ee97143c1fa9109877"
+    },
+    {
+      "relpath": "Resources/Views",
+      "contentType": "VIEWS",
+      "defaultDisabled": false,
+      "id": "4c30113378b44c5fa3a024043d7f4263"
+    },
+    {
+      "relpath": "Resources/Favorites",
+      "contentType": "FAVORITES",
+      "defaultDisabled": false,
+      "id": "145eb516b7134b48bcce3e73826c31a6"
+    },
+    {
+      "relpath": "Resources/CustomFunctions",
+      "contentType": "CUSTOM_FUNCTIONS",
+      "defaultDisabled": false,
+      "id": "32f56da5742c4f3ea232a6cec5946593"
+    },
+    {
+      "relpath": "Resources/Custom",
+      "contentType": "GENERIC",
+      "defaultDisabled": false,
+      "id": "7f81b12280b046d78d7e89575905ca59"
+    },
+    {
+      "relpath": "ReferenceResults",
+      "contentType": "REFERENCE_RESULTS",
+      "defaultDisabled": false,
+      "id": "dbde1ca520c54909b5dd74cc6868d543"
+    },
+    {
+      "relpath": "Resources/ExperimentDefinitions",
+      "contentType": "EXPERIMENT_DEFINITIONS",
+      "defaultDisabled": false,
+      "id": "4869a148c5e64768a60aa4fe91ca0f42"
+    }
+  ],
+  "executionOptions": []
+}
