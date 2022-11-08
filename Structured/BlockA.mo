@@ -1,4 +1,4 @@
 within Structured;
-block BlockA12
+block BlockA12_renamed
     extends Modelica.Blocks.Icons.Block;
-end BlockA12;
+end BlockA12_renamed;
