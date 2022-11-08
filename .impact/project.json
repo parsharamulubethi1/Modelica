@@ -1,7 +1,12 @@
 {
   "name": "Modelica",
   "format": "1.0.0",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "name": "Modelica",
+      "versionSpecifier": "4.0.0"
+    }
+  ],
   "content": [
     {
       "relpath": "Versioned_Unstructured 1.mo",
