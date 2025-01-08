@@ -3,7 +3,7 @@ replaceable package Medium = Modelica.Media.Water.StandardWaterOnePhase
     constrainedby Modelica.Media.Interfaces.PartialMedium;
   Modelica.Fluid.Vessels.OpenTank tank(
     height=0.1,
-    crossArea=0.5,
+    crossArea=0.6,
     level_start=0.03,
     redeclare package Medium = Medium,
     portsData={Modelica.Fluid.Vessels.BaseClasses.VesselPortsData(diameter=0.1)},
